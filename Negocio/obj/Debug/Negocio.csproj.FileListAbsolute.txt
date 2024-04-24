@@ -1,0 +1,9 @@
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\Negocio\bin\Debug\Negocio.dll
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\Negocio\bin\Debug\Dominio.dll
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\Negocio\bin\Debug\Dominio.pdb
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\Negocio\obj\Debug\Negocio.dll
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\Negocio\obj\Debug\Negocio.pdb

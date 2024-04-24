@@ -1,0 +1,16 @@
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\bin\Debug\TPFInalNivel2-LuduenaGomez.exe.config
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\bin\Debug\TPFInalNivel2-LuduenaGomez.exe
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\bin\Debug\TPFInalNivel2-LuduenaGomez.pdb
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\obj\Debug\TPFInalNivel2-LuduenaGomez.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\obj\Debug\TPFInalNivel2_LuduenaGomez.frmProducto.resources
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\obj\Debug\TPFInalNivel2_LuduenaGomez.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\obj\Debug\TPFInalNivel2-LuduenaGomez.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\obj\Debug\TPFInalNivel2-LuduenaGomez.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\obj\Debug\TPFInalNivel2-LuduenaGomez.exe
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\obj\Debug\TPFInalNivel2-LuduenaGomez.pdb
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\bin\Debug\Dominio.dll
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\bin\Debug\Dominio.pdb
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\obj\Debug\TPFInalNivel2-LuduenaGomez.csproj.CopyComplete
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\bin\Debug\Negocio.dll
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\bin\Debug\Negocio.pdb
+C:\Users\ferna\OneDrive\Escritorio\Curso C# N°2\Catalogo-App\TPFInalNivel2-LuduenaGomez\obj\Debug\TPFInalNivel2_LuduenaGomez.frmAltaProducto.resources
